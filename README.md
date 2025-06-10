@@ -15,7 +15,7 @@
 <td width="400" align="left">
 
 ### 👋 **Hi, I'm wonsub Park!**
-🚀 **C Sharp Developer** passion for Web Service Development  
+🚀 **Developer** passion for Web Service Development  
 
 🌍 **Location:** Japan 🇯🇵  
 💼 **Focus:** Building Profitable Web Applications  
