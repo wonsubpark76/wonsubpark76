@@ -23,5 +23,5 @@
   
   **⭐ From [user](https://github.com/user) with ❤️**
   
-  *"Flutter makes everything beautiful! 🦋"*
+  *"C# makes everything beautiful! 🦋"*
 </div>
